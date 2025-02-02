@@ -8,17 +8,20 @@ I'm **Chunhui Zhang**, a Ph.D. student in Computer Science at Dartmouth 🌲, wo
 
 My research focuses on advancing the intrinsic properties of deep learning across diverse modalities, with an emphasis on trustworthiness, scalability, and applicability to real-world challenges. Highlights of my work include:
 
-- **Scaling Multimodal Theory-of-Mind with Weak-to-Strong Bayesian Reasoning**  
+- **Overcoming Multi-step Complexity in Theory-of-Mind Reasoning: A Scalable Bayesian Planner**  
   [Preprint](https://drive.google.com/file/d/1vnAb1dy5_RJcA1vvSPP00u57sBi2hQp9/view?usp=sharing) | [Code](https://anonymous.4open.science/r/scale-bayesian-tom-248B)  
+  *Conference:* NAACL 2025 
   *Authors:* Chunhui Zhang, Sean Dae Houlihan, Kwonjoon Lee, Nakul Agarwal, Zhongyu Ouyang, Soroush Vosoughi, Shao-Yuan Lo  
 
 - **Pretrained Image-Text Models are Secretly Video Captioners**  
-  [Preprint](https://drive.google.com/file/d/1BDlofqXvD62j9drpLhXnmjZfdwJsnLlH/view?usp=sharing) | [Code](https://anonymous.4open.science/r/ic2vc)  
-  *Authors:* Chunhui Zhang, Yiren Jian, Zhongyu Ouyang, Soroush Vosoughi  
+  [Preprint](https://drive.google.com/file/d/1BDlofqXvD62j9drpLhXnmjZfdwJsnLlH/view?usp=sharing) | [Code](https://anonymous.4open.science/r/ic2vc)
+  *Conference:* NAACL 2025 
+  *Authors:* {Chunhui Zhang*, Yiren Jian*}, Zhongyu Ouyang, Soroush Vosoughi  
 
-- **Working Memory Refines Essential Temporal Multimodal Sequences for Audio-Video-Language Modelling**  
+- **Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding**  
   [Preprint](https://drive.google.com/file/d/12aPkYhu2fVS4g8bWNMNkXRcIvZYDJ_rA/view?usp=sharing) | [Code](https://github.com/chunhuizng/amuse)  
-  *Authors:* Chunhui Zhang*, Xingjian Diao*, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
+  *Conference:* NAACL 2025 
+  *Authors:* {Chunhui Zhang*, Xingjian Diao*}, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **Working Memory Identifies Reasoning Limits in Language Models**  
   *Conference:* EMNLP 2024  
@@ -47,7 +50,7 @@ I am currently exploring **Multimodal LLMs** (Language-Vision-Audio), **memory m
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Reach Me
 
 - Email: [chunhui.zhang.gr@dartmouth.edu](mailto:chunhui.zhang.gr@dartmouth.edu)  
 - LinkedIn: [Chunhui Zhang](https://www.linkedin.com/in/chunhui-zhang-541827161/)  
