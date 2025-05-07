@@ -9,11 +9,11 @@ I'm **Chunhui Zhang**, a Ph.D. student in Computer Science at Dartmouth 🌲, wo
 My research focuses on advancing the intrinsic properties of deep learning across diverse modalities, with an emphasis on trustworthiness, scalability, and applicability to real-world challenges. Highlights of my work include:
 
 - **Overcoming Multi-step Complexity in Theory-of-Mind Reasoning: A Scalable Bayesian Planner**  
-  *Conference:* NAACL 2025  
-  *Authors:* Chunhui Zhang, Sean Dae Houlihan, Kwonjoon Lee, Nakul Agarwal, Zhongyu Ouyang, Soroush Vosoughi, Shao-Yuan Lo  
+  *Conference:* ICML 2025, *Spotlight*
+  *Authors:* Chunhui Zhang, Zhongyu Ouyang, Kwonjoon Lee, Nakul Agarwal, Sean Dae Houlihan, {Soroush Vosoughi, Shao-Yuan Lo}
 
 - **Pretrained Image-Text Models are Secretly Video Captioners**  
-  *Conference:* NAACL 2025  
+  *Conference:* NAACL 2025 *Oral Presentation*
   *Authors:* {Chunhui Zhang*, Yiren Jian*}, Zhongyu Ouyang, Soroush Vosoughi  
 
 - **Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding**  
