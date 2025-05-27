@@ -12,6 +12,10 @@ My research focuses on advancing the intrinsic properties of deep learning acros
   *Conference:* ICML 2025, *Spotlight*
   *Authors:* Chunhui Zhang, Zhongyu Ouyang, Kwonjoon Lee, Nakul Agarwal, Sean Dae Houlihan, {Soroush Vosoughi, Shao-Yuan Lo}
 
+- **Growing Through Experience: Scaling Episodic Grounding in Language Models**  
+  *Conference:* ACL 2025
+  *Authors:* Chunhui Zhang, Sirui Wang, Zhongyu Ouyang, Xiangchi Yuan, Soroush Vosoughi
+
 - **Pretrained Image-Text Models are Secretly Video Captioners**  
   *Conference:* NAACL 2025 *Oral Presentation*
   *Authors:* {Chunhui Zhang*, Yiren Jian*}, Zhongyu Ouyang, Soroush Vosoughi  
