@@ -9,28 +9,34 @@ I'm **Chunhui Zhang**, a Ph.D. student in Computer Science at Dartmouth 🌲, wo
 My research focuses on advancing the intrinsic properties of deep learning across diverse modalities, with an emphasis on trustworthiness, scalability, and applicability to real-world challenges. Highlights of my work include:
 
 - **Overcoming Multi-step Complexity in Theory-of-Mind Reasoning: A Scalable Bayesian Planner**  
-  *Conference:* ICML 2025, *Spotlight*
+  *Conference:* ICML 2025, *Spotlight*. \
   *Authors:* Chunhui Zhang, Zhongyu Ouyang, Kwonjoon Lee, Nakul Agarwal, Sean Dae Houlihan, {Soroush Vosoughi, Shao-Yuan Lo}
 
 - **Growing Through Experience: Scaling Episodic Grounding in Language Models**  
-  *Conference:* ACL 2025, *Oral Presentation*
+  *Conference:* ACL 2025, *Oral Presentation*. \
   *Authors:* Chunhui Zhang, Sirui Wang, Zhongyu Ouyang, Xiangchi Yuan, Soroush Vosoughi
 
 - **Pretrained Image-Text Models are Secretly Video Captioners**  
-  *Conference:* NAACL 2025 *Oral Presentation*
+  *Conference:* NAACL 2025 *Oral Presentation*. \
   *Authors:* {Chunhui Zhang*, Yiren Jian*}, Zhongyu Ouyang, Soroush Vosoughi  
 
+- **Knowing More, Acting Better: Hierarchical Representation for Embodied Decision-Making for PPO Training**  
+  *Conference:* Findings of EMNLP 2025 \
+  *Authors:* Chunhui Zhang, Zhongyu Ouyang, Xingjian Diao, Zheyuan Liu, Soroush Vosoughi
+
+- **Superficial Self-Improved Reasoners Benefit from Model Merging**  
+  *Conference:* EMNLP 2025 \
+  *Authors:* Xiangchi Yuan, Chunhui Zhang, Zheyuan Liu, Dachuan Shi, Soroush Vosoughi, Wenke Lee
+
 - **Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding**  
-  *Conference:* Findings of NAACL 2025  
-  *Authors:* {Chunhui Zhang*, Xingjian Diao*}, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
+  *Conference:* Findings of NAACL 2025 \
+  *Authors:* {Chunhui Zhang*, Xingjian Diao*}, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui
 
 - **Working Memory Identifies Reasoning Limits in Language Models**  
-  *Conference:* EMNLP 2024  
+  *Conference:* EMNLP 2024 \
   *Authors:* Chunhui Zhang, Yiren Jian, Zhongyu Ouyang, Soroush Vosoughi  
 
-- **Learning Musical Representations for Music Performance Question Answering**  
-  *Conference:* Findings of EMNLP 2024  
-  *Authors:* Xingjian Diao, Chunhui Zhang, Tingxuan Wu, Ming Cheng, Zhongyu Ouyang, Weiyi Wu, Soroush Vosoughi, Jiang Gui  
+
 
 ---
 
