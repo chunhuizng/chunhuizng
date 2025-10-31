@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Chunhui Zhang**, a Ph.D. student in Computer Science at Dartmouth 🌲, working with [🌟Professor Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/). I also hold an MSCS degree (research-based) from Brandeis University, where I was honored with the GSAS Fellowship, and a Bachelor's degree in CS from Northeastern University, receiving the Outstanding Honor Thesis Award.
+I'm **Chunhui Zhang**, a Ph.D. candidate in Computer Science at Dartmouth 🌲, working with [🌟Professor Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/). I also hold an MSCS degree (research-based) from Brandeis University, where I was honored with the GSAS Fellowship, and a Bachelor's degree in CS from Northeastern University, receiving the Outstanding Honor Thesis Award.
 
 ---
 
