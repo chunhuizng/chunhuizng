@@ -42,18 +42,23 @@ My research focuses on advancing the intrinsic properties of deep learning acros
 
 ### 💼 Internship Experience
 
-#### **Honda Research Institute USA**  
-*Research Intern (Jun. 2024 – Sept. 2024)*  
-- **Project:** Multimodal LLM Post-Training  
-- Developed a **LLM-powered reasoner** capable of understanding human behaviors in **multimodal environments**, achieving a **4.6% improvement** over state-of-the-art solutions.  
-- The paper is under review, and the code has been released.  
-- **Host:** [Dr. Shao-Yuan Lo](https://shaoyuanlo.github.io/)  
+* **Amazon Science (Sept 2025 – Present)**\
+  *Applied Scientist Intern, Seattle, WA*\
+  Research on **reinforcement learning post-training for GUI-based agents**, focusing on adaptive reasoning and long-horizon memory in multimodal environments.
+
+* **Google DeepMind (Jun 2025 – Sept 2025)**\
+  *Research Intern, Mountain View, CA*\
+  Developed a **high-throughput RL training pipeline** for the **Gemma-3n family**, achieving **5× speedup** via **KV-cache reuse** in audio–text long-context scenarios. Contributed to **multimodal Gemma-3n open-source tools**.
+
+* **Honda Research Institute USA (May 2024 – Sept 2024)**\
+  *Research Intern, San Jose, CA*\
+  Worked on **multimodal long-context modeling** with **context-parallel and ring-attention architectures**, improving alignment across audio, video, and text modalities for real-world perception tasks.
 
 ---
 
 ### 🌱 Current Focus
 
-I am currently exploring **Multimodal LLMs** (Language-Vision-Audio), **memory mechanisms**, and **reinforcement learning** to push the boundaries of AGI. My recent work includes training recipes for large-scale models, which ranked **Top-2 on PaperWithCode’s Video Captioning Leaderboard**, showcasing optimal strategies for resource allocation in post-training.
+I am currently exploring **Multimodal LLMs** (Language-Vision-Audio), **memory mechanisms**, and **reinforcement learning** to discover unseen and genuinely new patterns in the real world. My recent work includes training recipes for large-scale models, which ranked **Top-2 on PaperWithCode’s Video Captioning Leaderboard**, showcasing optimal strategies for resource allocation in post-training.
 
 ---
 
