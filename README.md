@@ -20,8 +20,8 @@ My research focuses on advancing the intrinsic properties of deep learning acros
   *Conference:* NAACL 2025 **Oral Presentation (Top 2.88%)**. \
   *Authors:* Chunhui Zhang*, Yiren Jian*, Zhongyu Ouyang, Soroush Vosoughi  
 
-- **Knowing More, Acting Better: Hierarchical Representation for Embodied Decision-Making for PPO Training**  
-  *Conference:* Findings of EMNLP 2025 \
+- **Knowing More, Acting Better: Hierarchical Representation for Embodied Decision-Making**  
+  *Conference:* Findings of EMNLP 2025 (designed for PPO Training) \
   *Authors:* Chunhui Zhang, Zhongyu Ouyang, Xingjian Diao, Zheyuan Liu, Soroush Vosoughi
 
 - **Superficial Self-Improved Reasoners Benefit from Model Merging**  
